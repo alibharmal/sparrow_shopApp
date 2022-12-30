@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>356784483498-dkosj7ugtjnj5ggkh13qgm09r48iqk3d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.356784483498-dkosj7ugtjnj5ggkh13qgm09r48iqk3d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGU1K_D27vTsnANVnG0kyz8ZlmufJP0V4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>356784483498</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sparrowTech.sparrowShop</string>
+	<key>PROJECT_ID</key>
+	<string>sparrowshop-ed353</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sparrowshop-ed353.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:356784483498:ios:92019adc0b86378c33f4d3</string>
+</dict>
+</plist>

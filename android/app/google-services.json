@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356784483498",
+    "project_id": "sparrowshop-ed353",
+    "storage_bucket": "sparrowshop-ed353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356784483498:android:a8a35a67c5cba7cb33f4d3",
+        "android_client_info": {
+          "package_name": "com.sparrowTech.sparrow_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356784483498-te1hu5rfg183j7apk0vgjv7a0b1d742g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyo951L1VvhCmZtbFfPdsA1d7GJXyonKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356784483498-te1hu5rfg183j7apk0vgjv7a0b1d742g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
